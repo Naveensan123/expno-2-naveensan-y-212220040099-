@@ -13,3 +13,6 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (i) Using IQR detect weight outliers and print them
 
 (ii) Using IQR, detect height outliers and print them
+
+
+[EX NO_2(Naveensan Y-212220040099).ipynb - Colaboratory.pdf](https://github.com/Naveensan123/expno-2-naveensan-y-212220040099-/files/11075215/EX.NO_2.Naveensan.Y-212220040099.ipynb.-.Colaboratory.pdf)
