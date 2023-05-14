@@ -66,5 +66,5 @@ RESULT
 
 Thus the required output is displayed.
 
-![hi](https://github.com/Naveensan123/expno-2-naveensan-y-212220040099-/assets/95761973/1f7319f4-3443-464b-9be7-4205a46448b1)
+
 
